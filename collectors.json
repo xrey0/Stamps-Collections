@@ -1,0 +1,28 @@
+{
+   "collection" : {
+      "platform" : "Counterparty",
+      "name" : "The Collectors",
+      "site" : null,
+      "image" : "https://i.imgur.com/FPTwK6B.jpg",
+      "image_large" : "https://i.imgur.com/K6IOUie.jpg",
+      "description" : "Collect all creations"
+   },
+   "stamps" : [
+      {
+         "stamp" : 15091,
+         "index" : 1
+      },
+      {
+         "stamp" : 30970,
+         "index" : 2
+      },
+      {
+         "stamp" : 30990,
+         "index" : 3
+      },
+      {
+         "stamp" : 30999,
+         "index" : 4
+      },
+   ]
+}
