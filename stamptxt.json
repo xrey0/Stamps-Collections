@@ -1,0 +1,24 @@
+{
+   "collection" : {
+      "platform" : "Counterparty",
+      "name" : "STAMP TXT",
+      "site" : null,
+      "image" : "https://i.imgur.com/qsTFAUO.jpg",
+      "image_large" : "https://i.imgur.com/EtEWm2o.jpg",
+      "description" : "Stamped text assets"
+   },
+   "stamps" : [
+      {
+         "stamp" : 950,
+         "index" : 1
+      },
+      {
+         "stamp" : 8443,
+         "index" : 2
+      },
+      {
+         "stamp" : 8445,
+         "index" : 3
+      },
+   ]
+}
